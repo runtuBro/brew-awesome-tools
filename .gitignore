@@ -1,0 +1,9 @@
+node_modules
+dist
+cache
+.temp
+.DS_Store
+modules.xml
+vcs.xml
+brew-awesome-tools.iml
+.gitignore
