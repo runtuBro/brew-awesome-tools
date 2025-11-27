@@ -12,9 +12,12 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: '推荐',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
+          { text: '终端效率神器', link: '/one' },
+          { text: '网络调试工具', link: '/two' },
+          { text: '开发者必备工具', link: '/three' },
+          { text: '系统管理工具', link: '/four' },
         ]
       }
     ],
