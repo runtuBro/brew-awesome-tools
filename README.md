@@ -7,4 +7,4 @@
 - 高效工具推荐（CLI、GUI、效率工具等）
 - 分类清晰、可直接复制安装命令
 
-访问地址：### https://runtubro.github.io/brew-awesome-tools/
+访问地址：https://runtubro.github.io/brew-awesome-tools/
